@@ -1,4 +1,4 @@
-# MongoDB Version and PyMongoDB Version Compatibility
+# MongoDB Version and PyMongoDB Version Compatibility  
 
 - This collection is tested against the most recent two minor MongoDB releases, currently 5.0.X and 6.0.X.
 - ~This collection is tested against PyMongo version 3.12.X and latest.~ PyMongo 3.12.X dropped on 11.04.2023. Now PyMongo latest only.
